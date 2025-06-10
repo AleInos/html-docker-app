@@ -6,8 +6,10 @@ Este proyecto es una mini app HTML que corre dentro de un contenedor Docker usan
 
 html-docker-app/
 index.html
+
 Dockerfile
-README.md
+
+ README.md
 
 ##  Cómo usar
 
