@@ -5,9 +5,9 @@ Este proyecto es una mini app HTML que corre dentro de un contenedor Docker usan
 ##  Estructura
 
 html-docker-app/
-├── index.html
-├── Dockerfile
-└── README.md
+index.html
+Dockerfile
+README.md
 
 ##  Cómo usar
 
