@@ -15,7 +15,7 @@ Dockerfile
 
 1. Clonar el repositorio:
 
-git clone https://github.com/tu-usuario/html-docker-app.git
+git clone https://github.com/AleInos/html-docker-app
 cd html-docker-app
 
 2. Construir la imagen de Docker:
